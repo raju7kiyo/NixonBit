@@ -1,0 +1,69 @@
+/* star position */
+.portfolio-page .form-group .star-width{
+    display: inline-block;
+    width: 62%;
+}
+/* input field of code */
+.portfolio-page .form-group .country-code{
+    display: inline-block;
+    width: 65px;
+    
+}
+/* input field of moblie */
+.portfolio-page .form-group .mobile-field{
+    display: inline-block;
+    width: 87%;
+}
+
+
+@media only screen  and (max-width:380px){
+
+/* star position */
+.portfolio-page .form-group .star-width{
+    display: inline-block;
+    width: 52%;
+}
+
+/* input field of code */
+.portfolio-page .form-group .country-code{
+    display: inline-block;
+    width: 65px;
+    
+}
+
+/* input field of moblie */
+.portfolio-page .form-group .mobile-field{
+    display: inline-block;
+    width: 77%;
+}
+    
+}
+
+@media only screen and (min-width:381px) and (max-width:480px) {
+    .portfolio-page .form-group .mobile-field{
+    display: inline-block;
+    width: 81%;
+}
+}
+
+@media only screen  and (min-width:481px)and (max-width:768px){
+    
+    /* star position */
+.portfolio-page .form-group .star-width{
+    display: inline-block;
+    width: 69%;
+}
+/* input field of code */
+.portfolio-page .form-group .country-code{
+    display: inline-block;
+    width: 65px;
+    
+}
+    /* input field of moblie */
+.portfolio-page .form-group .mobile-field{
+    display: inline-block;
+    width: 89%;
+}
+    
+}
+
